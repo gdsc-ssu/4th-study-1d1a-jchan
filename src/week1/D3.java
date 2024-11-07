@@ -98,3 +98,4 @@ public class D3 {
         return x >= 0 && x < h && y >= 0 && y < n && z >= 0 && z < m;
     }
 }
+
