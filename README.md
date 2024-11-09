@@ -9,3 +9,4 @@
 | 11.06 | [토마토](https://www.acmicpc.net/problem/7569)                                                                    | BFS  | 백준         | 골드 5 |
 | 11.07 | [벽부수고 이동하기](https://www.acmicpc.net/problem/2206)                                                         | BFS  | 백준         | 골드 3 |
 | 11.08 | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                                                               | BFS  | 백준         | 골드 3 |
+| 11.09 | [빙산](https://www.acmicpc.net/problem/2573)                                                                      | DFS  | 백준         | 골드 4 |
