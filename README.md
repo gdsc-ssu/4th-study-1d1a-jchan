@@ -10,3 +10,8 @@
 | 11.07 | [벽부수고 이동하기](https://www.acmicpc.net/problem/2206)                                                         | BFS  | 백준         | 골드 3 |
 | 11.08 | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                                                               | BFS  | 백준         | 골드 3 |
 | 11.09 | [빙산](https://www.acmicpc.net/problem/2573)                                                                      | DFS  | 백준         | 골드 4 |
+| 11.10 | x                                                                                                                 | x    | x            | x      |
+| 11.11 | x                                                                                                                 | x    | x            | x      |
+| 11.12 | x                                                                                                                 | x    | x            | x      |
+| 11.13 | x                                                                                                                 | x    | x            | x      |
+| 11.14 | [색종이 만들기](https://www.acmicpc.net/problem/2630)                                                             | DFS  | 백준         | 실버 2 |
