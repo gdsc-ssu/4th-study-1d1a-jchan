@@ -17,3 +17,4 @@
 | 11.14 | [색종이 만들기](https://www.acmicpc.net/problem/2630)                                                             | DFS      | 백준         | 실버 2 |
 | 11.15 | [N과 M (7)](https://www.acmicpc.net/problem/15656)                                                                | 백트래킹 | 백준         | 실버 3 |
 | 11.16 | [N과 M (8)](https://www.acmicpc.net/problem/15657)                                                                | 백트래킹 | 백준         | 실버 3 |
+| 11.17 | [감시](https://www.acmicpc.net/problem/15683)                                                                     | 백트래킹 | 백준         | 골드 3 |
