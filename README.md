@@ -20,3 +20,4 @@
 | 11.17 | [감시](https://www.acmicpc.net/problem/15683)                                                                     | 백트래킹   | 백준         | 골드 3 |
 | 11.18 | [스티커 붙이기](https://www.acmicpc.net/problem/18808)                                                            | 시뮬레이션 | 백준         | 골드 3 |
 | 11.19 | [2048 (Easy)](https://www.acmicpc.net/problem/12100)                                                              | 시뮬레이션 | 백준         | 골드 1 |
+| 11.20 | [치킨 배달](https://www.acmicpc.net/problem/15686)                                                                | 시뮬레이션 | 백준         | 골드 5 |
