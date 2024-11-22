@@ -22,3 +22,4 @@
 | 11.19 | [2048 (Easy)](https://www.acmicpc.net/problem/12100)                                                              | 시뮬레이션 | 백준         | 골드 1 |
 | 11.20 | [치킨 배달](https://www.acmicpc.net/problem/15686)                                                                | 시뮬레이션 | 백준         | 골드 5 |
 | 11.21 | [Puyo Puyo](https://www.acmicpc.net/problem/11559)                                                                | 시뮬레이션 | 백준         | 골드 4 |
+| 11.22 | [RGB거리](https://www.acmicpc.net/problem/1149)                                                                   | DP         | 백준         | 실버 1 |
