@@ -1,5 +1,6 @@
-package week1;
 
+
+import java.util.*;
 
 public class D1 {
 
