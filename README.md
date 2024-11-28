@@ -27,3 +27,4 @@
 | 11.24 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                            | BFS        | 백준         | 실버 1 |
 | 11.25 | [이친수](https://www.acmicpc.net/problem/2193)                                                                    | DP         | 백준         | 실버 3 |
 | 11.26 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)                                                             | 시뮬레이션 | 백준         | 골드 2 |
+| 11.27 | [스타트링크](https://www.acmicpc.net/problem/5014)                                                                | BFS        | 백준         | 실버 1 |
