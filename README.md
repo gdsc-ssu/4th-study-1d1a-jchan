@@ -24,7 +24,9 @@
 | 11.21 | [Puyo Puyo](https://www.acmicpc.net/problem/11559)                                                                | 시뮬레이션 | 백준         | 골드 4 |
 | 11.22 | [RGB거리](https://www.acmicpc.net/problem/1149)                                                                   | DP         | 백준         | 실버 1 |
 | 11.23 | [2×n 타일링](https://www.acmicpc.net/problem/11726)                                                               | DP         | 백준         | 실버 3 |
-| 11.24 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                            | BFS        | 백준         | 실버 1 |
-| 11.25 | [이친수](https://www.acmicpc.net/problem/2193)                                                                    | DP         | 백준         | 실버 3 |
-| 11.26 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)                                                             | 시뮬레이션 | 백준         | 골드 2 |
-| 11.27 | [스타트링크](https://www.acmicpc.net/problem/5014)                                                                | BFS        | 백준         | 실버 1 |
+| 11.24 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)                                                         | DP         | 백준         | 실버 3 |
+| 11.25 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                            | BFS        | 백준         | 실버 1 |
+| 11.26 | [이친수](https://www.acmicpc.net/problem/2193)                                                                    | DP         | 백준         | 실버 3 |
+| 11.27 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)                                                             | 시뮬레이션 | 백준         | 골드 2 |
+| 11.28 | [스타트링크](https://www.acmicpc.net/problem/5014)                                                                | BFS        | 백준         | 실버 1 |
+| 11.29 | [안전 영역](https://www.acmicpc.net/problem/2468)                                                                 | BFS        | 백준         | 실버 1 |
