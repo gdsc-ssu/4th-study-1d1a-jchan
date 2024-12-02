@@ -32,3 +32,4 @@
 | 11.29 | [안전 영역](https://www.acmicpc.net/problem/2468)                                                                 | BFS        | 백준         | 실버 1 |
 | 11.30 | [상범 빌딩](https://www.acmicpc.net/problem/6593)                                                                 | BFS        | 백준         | 골드 5 |
 | 12.01 | [미로 탐색](https://www.acmicpc.net/problem/2178)                                                                 | BFS        | 백준         | 실버 1 |
+| 12.02 | [영역 구하기](https://www.acmicpc.net/problem/2583)                                                               | BFS        | 백준         | 실버 1 |
