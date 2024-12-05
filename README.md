@@ -33,4 +33,6 @@
 | 11.30 | [상범 빌딩](https://www.acmicpc.net/problem/6593)                                                                 | BFS        | 백준         | 골드 5  |
 | 12.01 | [미로 탐색](https://www.acmicpc.net/problem/2178)                                                                 | BFS        | 백준         | 실버 1  |
 | 12.02 | [영역 구하기](https://www.acmicpc.net/problem/2583)                                                               | BFS        | 백준         | 실버 1  |
-| 12.03 | [숫자](https://www.acmicpc.net/problem/10093)                                                                     | 구현       | 백준         | 브론즈2 |
+| 12.03 | [윷놓이](https://www.acmicpc.net/problem/10093)                                                                   | 구현       | 백준         | 브론즈2 |
+| 12.04 | [숫자](https://www.acmicpc.net/problem/10093)                                                                     | 구현       | 백준         | 브론즈2 |
+| 12.05 | [카드 역배치](https://www.acmicpc.net/problem/10804)                                                              | 구현       | 백준         | 브론즈2 |
