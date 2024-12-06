@@ -36,3 +36,4 @@
 | 12.03 | [윷놓이](https://www.acmicpc.net/problem/10093)                                                                   | 구현       | 백준         | 브론즈2 |
 | 12.04 | [숫자](https://www.acmicpc.net/problem/10093)                                                                     | 구현       | 백준         | 브론즈2 |
 | 12.05 | [카드 역배치](https://www.acmicpc.net/problem/10804)                                                              | 구현       | 백준         | 브론즈2 |
+| 12.06 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)                                                       | 구현       | 백준         | 실버 5  |
