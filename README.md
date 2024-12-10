@@ -39,3 +39,5 @@
 | 12.06 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)                                                       | 구현       | 백준         | 실버 5  |
 | 12.07 | [뱀](https://www.acmicpc.net/problem/3190)                                                                        | 시뮬레이션 | 백준         | 골드 4  |
 | 12.08 | [1로 만들기 2](https://www.acmicpc.net/problem/12852)                                                             | DP         | 백준         | 실버 1  |
+| 12.09 | x                                                                                                                 | x          | x            | x       |
+| 12.10 | [유기농 배추](https://www.acmicpc.net/problem/1012)                                                               | DFS        | 백준         | 실버 2  |
