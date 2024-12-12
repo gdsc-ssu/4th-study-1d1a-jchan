@@ -42,3 +42,4 @@
 | 12.09 | x                                                                                                                 | x          | x            | x        |
 | 12.10 | [유기농 배추](https://www.acmicpc.net/problem/1012)                                                               | DFS        | 백준         | 실버 2   |
 | 12.11 | [고양이](https://www.acmicpc.net/submit/10171/87381829)                                                           | 구현       | 백준         | 브론즈 5 |
+| 12.12 | [별찍기 - 8](https://www.acmicpc.net/problem/2445)                                                                | 구현       | 백준         | 브론즈 3 |
