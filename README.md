@@ -45,3 +45,4 @@
 | 12.12 | [별찍기 - 8](https://www.acmicpc.net/problem/2445)                                                                | 구현       | 백준         | 브론즈 3 |
 | 12.13 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751)                                                             | 정렬       | 백준         | 실버5    |
 | 12.14 | [나이순 정렬](https://www.acmicpc.net/problem/10814)                                                              | 정렬       | 백준         | 실버 5   |
+| 12.15 | [시리얼 번호](https://www.acmicpc.net/problem/1431)                                                               | 정렬       | 백준         | 실버 3   |
